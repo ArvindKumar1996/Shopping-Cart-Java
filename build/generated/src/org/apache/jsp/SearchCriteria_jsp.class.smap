@@ -1,0 +1,19 @@
+SMAP
+SearchCriteria_jsp.java
+JSP
+*S JSP
+*F
++ 0 SearchCriteria.jsp
+SearchCriteria.jsp
+*L
+5,39:47
+44,12:87
+55,22:99
+77,2:122
+78:124
+79:125,6
+80:131,3
+81,49:134
+130,9:184
+138,4:193
+*E
